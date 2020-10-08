@@ -1,0 +1,9 @@
+How to run?
+
+    make
+    java -jar jasmin.jar test1.j 
+    java myResult
+    java -jar jasmin.jar test2.j 
+    java myResult
+    java -jar jasmin.jar test3.j 
+    java myResult
