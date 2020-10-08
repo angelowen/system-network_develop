@@ -1,0 +1,6 @@
+1.執行make
+2.terminal1 run ./server_thread
+3.terminal2,terminal3 各自run ./client_thread 0.0.0.0 8080 創建兩個使用者
+4.指令/game開始遊戲(OOXX)->看到It's your turn 時即換此使用者輸入(index_x,index_y),OOXX介面於server端
+  當輸入總和達9次時判斷和局，無錯誤判斷請小心使用
+5.另有指令/list列出使用者,/quit使用者離開,/chat使用者互相聊天

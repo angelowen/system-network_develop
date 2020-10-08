@@ -1,0 +1,4 @@
+To run the server,please use the command "sudo ./hw1"
+and open the browser with 127.0.0.1,you can see the content of index.html
+After you choose the file and press the button of submit,the data which you choosed 
+would be send to the file called data_sendto_server.
